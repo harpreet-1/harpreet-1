@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Shahbaz Uddin</h1>
+<h1 align="center">Hi there👋, I'm Harpreet Singh</h1>
 <h3 align="center">A passionate backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="harpreet-1" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harpreet-1&label=Profile%20views&color=0e75b6&style=flat" alt="harpreet-1" /> </p>
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything either I'll recall or I'll learn**
 
-- 📫 How to reach me **jackayron5@gmail.com**
+- 📫 How to reach me **hpsllg8@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
