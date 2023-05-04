@@ -1,29 +1,64 @@
-<h1 align="center">Hi there👋, I'm Harpreet Singh</h1>
-<h3 align="center">A passionate backend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="harpreet-1" />
+<h1 align="center">Hi 🙏👋, I'm harpreet singh</h1>
+
+
+<h3 align="center">A passionate Full Stack developer </h3>
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harpreet-1&label=Profile%20views&color=0e75b6&style=flat" alt="harpreet-1" /> </p>
+<h4> “ Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-- 🔭 I’m currently working on **Data Structures and Algorithm**
+ </h4>
+<br>
 
-- 🌱 I’m currently learning **Node-Js**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harpreet-1" alt="harpreet-1" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Full-Stack Web Apps**
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **anything either I'll recall or I'll learn**
+- 🌱 I’m currently learning **NodeJS ,HTML,CSS,Javascript**
 
-- 📫 How to reach me **hpsllg8@gmail.com**
+- 👨‍💻 All of my projects are available at [https://harpreet-1.github.io/](https://harpreet-1.github.io/)
 
-- ⚡ Fun fact **I think I am funny**
+- 💬 Ask me about **NodeJS ,MongoDB,HTML,CSS,Javascript**
 
-<!-- <h3 align="left">Connect with me:</h3> -->
+- ⚡ Fun fact **I Am very dedicated**
+
+- ⭐⭐ <a href="https://harpreet-1.github.io/"> CHECK OUT MY PORTFOLIO </a>
+- <br/>
+
+<img src="https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="CAT"/>
+
+<br/>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/harpreet-singh-77015a258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harpreet-singh-77015a258/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2 align="left">👷 Stats so far</h2>
 
-<p><img width="500" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harpreet-1&show_icons=true&locale=en&layout=compact" alt="harpreet-1" /></p>
 
-<p>&nbsp;<img width="500" align="left" src="https://github-readme-stats.vercel.app/api?username=harpreet-1&show_icons=true&locale=en" alt="harpreet-1" /></p>
 
-<p><img width="500" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harpreet-1&" alt="harpreet-1" /></p>
+ <p>
+    <a href="https://github.com/harpreet-1"><span>
+        <img align="left" 
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=harpreet-1&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
+          alt="ovi" width="45%" />
+          <img align="right"
+          src="https://github-readme-stats.vercel.app/api?username=harpreet-1&show_icons=true&locale=en&theme=github_dark&hide_border=true"
+          alt="ovi" width="45%"  />
+      </span></a>
+  </p>
+
+<img id="github-streak-stats"
+               src="https://github-readme-streak-stats.herokuapp.com?user=harpreet-1&theme=holi-theme&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D"
+               alt="streakstat" />
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  </p>
+<a href="https://google.com" align="center">
+   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</a>
