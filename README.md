@@ -22,7 +22,7 @@ That's why I like to make things that make a difference.
 
 - 👨‍🎓 I'm a **Full Stack Web Developer**
 - 📬 How to reach me: [hpsllg8@gmail.com](mailto:hpsllg8@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1ej4emtKkA48Pkft0AFDmuEmdI3CJZreA/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1NFX1nq8e87oHK1x-NZDifQjG_viLcjDQ/view?usp=sharing)
 - <a href="https://harpreet-1.github.io">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
     </a>
